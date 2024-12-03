@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "fullName": "USMANOVA FERUZA MAMATKULOVNA",
+    "departmentId": 2
+  },
+  {
+    "id": 2,
+    "fullName": "JUMAEVA MUKHAYYO XAMRAKULIYEVNA",
+    "departmentId": 1
+  },
+  {
+    "id": 3,
+    "fullName": "YULDASHEVA DILNOZA DILSHODOVNA",
+    "departmentId": 1
+  },
+  {
+    "id": 4,
+    "fullName": "DARVISHOVA DILNOZA NURMUXAMMATOVNA",
+    "departmentId": 2
+  },
+  {
+    "id": 5,
+    "fullName": "URAZBOEVA GULJAKHON ABDUJALILOVNA",
+    "departmentId": 1
+  }
+]

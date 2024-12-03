@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "fullName": "YULDASHEVA DILNOZA DILSHODOVNA",
+    "departmentId": 1,
+    "isHead": true
+  },
+  {
+    "id": 2,
+    "fullName": "FARHODOVA SARVINOZ FARHOD QIZI",
+    "departmentId": 2,
+    "isHead": false
+  },
+  {
+    "id": 3,
+    "fullName": "YULDASHEVA DILNOZA DILSHODOVNA",
+    "departmentId": 1,
+    "isHead": true
+  },
+  {
+    "id": 4,
+    "fullName": "TIKHONOVA ELENA GENADIYEVNA",
+    "departmentId": 2,
+    "isHead": true
+  },
+  {
+    "id": 5,
+    "fullName": "MUSAEVA RANO MALIKOVNA",
+    "departmentId": 1,
+    "isHead": false
+  },
+  {
+    "id": 6,
+    "fullName": "ESHMATOVA LOLA GAYBULLAYEVNA",
+    "departmentId": 2,
+    "isHead": false
+  }
+]
